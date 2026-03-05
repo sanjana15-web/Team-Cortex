@@ -2,4 +2,5 @@
 Agentic AI study Assistant 
 
 Team Members <br>
-Sanjana Bhosale
+1] Sanjana Bhosale.
+2] vivek shirgupkar.
