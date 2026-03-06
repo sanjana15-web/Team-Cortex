@@ -1,2 +1,2 @@
 use for frontend ...
-We are making AI study Assistant
+We are making AI study Assistant 
